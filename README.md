@@ -1,7 +1,7 @@
 grunt-init
 ==========
 
-This is a boilerplate Gruntfile.js and package.json file for use in new projects. 
+This is a boilerplate Gruntfile.js and package.json file for use in new projects.
 
 It includes Grunt plugins: uglify, watch, jshint, less
 
@@ -52,6 +52,7 @@ Now you have a barebones working directory ready for HTML boilerplate of your ch
 
 </ul>
 
+If you need an HTML boilerplate as well see, https://github.com/magnumcreative/html5-bootstrap-init
 
 
 
